@@ -22,10 +22,11 @@
 ]>
 <messagebundle>
   <msg id="6939663044582448373"><source>app\pages\header\header-search.component.ts:3</source>Search for...</msg>
-  <msg id="2392488717875840729"><source>app\pages\header\header-search.component.ts:7</source><source>app\pages\header\header-search.component.ts:28</source>User</msg>
+  <msg id="2392488717875840729"><source>app\pages\header\header-search.component.ts:7</source>User</msg>
   <msg id="1172866303261737245"><source>app\pages\header\header-search.component.ts:11</source>Position</msg>
   <msg id="1806667489382256324"><source>app\pages\header\header-search.component.ts:14</source>Category</msg>
   <msg id="8051873253846033708"><source>app\pages\header\header-search.component.ts:17</source>Industry</msg>
   <msg id="1826215573205981970"><source>app\pages\header\header-search.component.ts:20</source>Company</msg>
   <msg id="3826375718280773430"><source>app\pages\header\header-search.component.ts:23</source>Jobfair</msg>
+  <msg id="2603733283718774565"><source>app\pages\header\header-search.component.ts:28</source>Test changes</msg>
 </messagebundle>
