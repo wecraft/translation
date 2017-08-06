@@ -28,5 +28,5 @@
   <msg id="8051873253846033708"><source>app\pages\header\header-search.component.ts:17</source>Industry</msg>
   <msg id="1826215573205981970"><source>app\pages\header\header-search.component.ts:20</source>Company</msg>
   <msg id="3826375718280773430"><source>app\pages\header\header-search.component.ts:23</source>Jobfair</msg>
-  <msg id="2603733283718774565"><source>app\pages\header\header-search.component.ts:28</source>Test changes</msg>
+  <msg id="2136768078931710804"><source>app\pages\header\header-search.component.ts:28</source>{VAR_PLURAL, plural, =0 {no changes} =1 {one change} =2 {two changes} other {a lot changes} }</msg>
 </messagebundle>
