@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE messagebundle [
+<!ELEMENT messagebundle (msg)*>
+<!ATTLIST messagebundle class CDATA #IMPLIED>
+
+<!ELEMENT msg (#PCDATA|ph|source)*>
+<!ATTLIST msg id CDATA #IMPLIED>
+<!ATTLIST msg seq CDATA #IMPLIED>
+<!ATTLIST msg name CDATA #IMPLIED>
+<!ATTLIST msg desc CDATA #IMPLIED>
+<!ATTLIST msg meaning CDATA #IMPLIED>
+<!ATTLIST msg obsolete (obsolete) #IMPLIED>
+<!ATTLIST msg xml:space (default|preserve) "default">
+<!ATTLIST msg is_hidden CDATA #IMPLIED>
+
+<!ELEMENT source (#PCDATA)>
+
+<!ELEMENT ph (#PCDATA|ex)*>
+<!ATTLIST ph name CDATA #REQUIRED>
+
+<!ELEMENT ex (#PCDATA)>
+]>
+<messagebundle>
+  <msg id="6939663044582448373"><source>app\pages\header\header-search.component.ts:3</source>Search for...</msg>
+  <msg id="2392488717875840729"><source>app\pages\header\header-search.component.ts:7</source><source>app\pages\header\header-search.component.ts:28</source>User</msg>
+  <msg id="1172866303261737245"><source>app\pages\header\header-search.component.ts:11</source>Position</msg>
+  <msg id="1806667489382256324"><source>app\pages\header\header-search.component.ts:14</source>Category</msg>
+  <msg id="8051873253846033708"><source>app\pages\header\header-search.component.ts:17</source>Industry</msg>
+  <msg id="1826215573205981970"><source>app\pages\header\header-search.component.ts:20</source>Company</msg>
+  <msg id="3826375718280773430"><source>app\pages\header\header-search.component.ts:23</source>Jobfair</msg>
+</messagebundle>
