@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE messagebundle [
+<!ELEMENT messagebundle (msg)*>
+<!ATTLIST messagebundle class CDATA #IMPLIED>
+
+<!ELEMENT msg (#PCDATA|ph|source)*>
+<!ATTLIST msg id CDATA #IMPLIED>
+<!ATTLIST msg seq CDATA #IMPLIED>
+<!ATTLIST msg name CDATA #IMPLIED>
+<!ATTLIST msg desc CDATA #IMPLIED>
+<!ATTLIST msg meaning CDATA #IMPLIED>
+<!ATTLIST msg obsolete (obsolete) #IMPLIED>
+<!ATTLIST msg xml:space (default|preserve) "default">
+<!ATTLIST msg is_hidden CDATA #IMPLIED>
+
+<!ELEMENT source (#PCDATA)>
+
+<!ELEMENT ph (#PCDATA|ex)*>
+<!ATTLIST ph name CDATA #REQUIRED>
+
+<!ELEMENT ex (#PCDATA)>
+]>
+<messagebundle>
+  <msg id="6939663044582448373">търсене</msg>
+  <msg id="2392488717875840729">Потребител</msg>
+  <msg id="1172866303261737245">Позиция</msg>
+  <msg id="1806667489382256324">Категория</msg>
+  <msg id="8051873253846033708">Индустрия</msg>
+  <msg id="1826215573205981970">Компания</msg>
+  <msg id="3826375718280773430">Панаир</msg>
+</messagebundle>
